@@ -18,7 +18,7 @@ Use Linear Regression to train a model that can predict house prices given:
 - Number of Bathrooms
 
 ## 📈 Sample Output Graph
-![Graph Example](example-graph.png) <!-- Upload your graph screenshot with this name -->
+Screenshot 2025-07-25 165611.png <!-- Upload your graph screenshot with this name -->
 
 ## 🧠 ML Concepts Used
 - Data Preprocessing
@@ -28,7 +28,7 @@ Use Linear Regression to train a model that can predict house prices given:
 
 ## 🤝 Author
 Misbah Ullah  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)
+🌐https://www.linkedin.com/in/misbah-ullah-a551a7361/
 
 ---
 
